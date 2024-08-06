@@ -4,7 +4,7 @@ I'm Tushar
 
 I'm a Senior Customer Engineer at [Pulumi](https://www.pulumi.com/about/) where I help people manage their cloud infrastructure.
 
-[LinkedIn](https://www.linkedin.com/in/tusharrshah/) | [Slack](https://slack.pulumi.com/) | [Pulumi](https://www.pulumi.com/about/)
+[LinkedIn](https://www.linkedin.com/in/tusharrshah/) 
 
 <a href="https://feisky.xyz/about">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tusharshahrs&show_icons=true" />
