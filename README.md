@@ -2,7 +2,7 @@
 
 I'm Tushar
 
-I'm a Senior Customer Engineer at [Pulumi](https://www.pulumi.com/about/) where I help people manage their cloud infrastructure.
+I'm a FinOps Solutions Architect at [Flexera](https://www.flexera.com/about/)
 
 [LinkedIn](https://www.linkedin.com/in/tusharrshah/) 
 
